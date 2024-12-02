@@ -1,6 +1,6 @@
-# Mini Woo: A Telegram Mini App for WooCommerce
+# faaruu jit: A Telegram Mini App for faaruu 
 
-Mini Woo is a project that allows you to create a [mini app](https://core.telegram.org/bots/webapps) for [Telegram](https://telegram.org/), the messaging app with over 500 million active users, that connects to your [WooCommerce](https://woocommerce.com/) website, the most popular e-commerce platform on the web. 
+faaruun yoomuu taanaan dhala namaaf barbaachisaadha  [mini app](https://core.telegram.org/bots/webapps) for [Telegram](https://t.me/kutaa_faaruu_jimma_jit/), kutaan faaruu w/x/q/g jit miseensota 75 active users of jalaa qaba, that connects to your [WooCommerce](https://woocommerce.com/) website, the most popular e-commerce platform on the web. 
 
 ![Brief video](./.github/mini-woo.gif "Short video showing opening the shop, browsing products, adding to cart, and paying with Telegram.")
 
